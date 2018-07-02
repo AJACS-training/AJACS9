@@ -49,14 +49,13 @@ AJACS1 あっと dbcls どっと rois どっと ac どっと jp
 
 ### [_](http://MotDB.DBCLS.jp/?AJACS9#icb63a10 "icb63a10") 内容  
 
-* 13:00-13:15 坊農秀雅「はじめに：統合データベースプロジェクトとは？」[ [PDF] ](http://dbcls.rois.ac.jp/~bono/docs/090417whatisLSDB.pdf)
-* 13:15-13:45 坊農秀雅[「データベースを使いこなすための前準備」](http://MotDB.DBCLS.jp/?AJACS9%2Fbono1 "AJACS9/bono1 (3362d)")
-* 13:45-14:30 川本祥子「生命科学横断検索の利用法」[講習で利用するURLのリスト](http://MotDB.DBCLS.jp/?AJACS9%2Fkawamoto1 "AJACS9/kawamoto1 (3362d)")
+* 13:00-13:15 坊農秀雅「はじめに：統合データベースプロジェクトとは？」
+* 13:15-13:45 坊農秀雅[「データベースを使いこなすための前準備」](01_bono1.md)
+* 13:45-14:30 川本祥子「生命科学横断検索の利用法」[講習で利用するURLのリスト](02_kawamoto.md)
 * 14:30-14:50 休憩
-* 14:50-15:20 坊農秀雅[「DNAデータベース総覧と検索、遺伝子発現バンク(GEO)目次の使い方」](http://MotDB.DBCLS.jp/?AJACS9%2Fbono2 "AJACS9/bono2 (3363d)")
+* 14:50-15:20 坊農秀雅[「DNAデータベース総覧と検索、遺伝子発現バンク(GEO)目次の使い方」](03_bono2.md)
 * 15:20-16:05 大久保公策「アナトモグラフィー/BodyParts3Dの利用法」 http://lifesciencedb.jp/ag/
-* 16:05-16:35 仲里猛留[「文献検索にまつわる各種ツールの使いこなし術」](http://MotDB.DBCLS.jp/?AJACS9%2Fthecla "AJACS9/thecla (3336d)")
+* 16:05-16:35 仲里猛留[「文献検索にまつわる各種ツールの使いこなし術」](04_nakazato.md)
 * 16:35-16:50 休憩
-* 16:50-17:30 [大喜利](http://ja.wikipedia.org/wiki/%E5%A4%A7%E5%96%9C%E5%88%A9)「明日から使えるデータベース・ウェブツール」（河野信、[小野浩雅 ](http://MotDB.DBCLS.jp/?AJACS9%2Fhono "AJACS9/hono (3362d)")、他）　[ [PDF]](http://motdb.dbcls.jp/?plugin=attach&pcmd=open&file=AJACS9.pdf&refer=AJACS9)
+* 16:50-17:30 [大喜利](http://ja.wikipedia.org/wiki/%E5%A4%A7%E5%96%9C%E5%88%A9)「明日から使えるデータベース・ウェブツール」（河野信、[小野浩雅 ](05_hono.md）　[ [PDF]](AJACS9_kawano.pdf)
 
-* [講習会アンケート](http://MotDB.DBCLS.jp/?AJACS9%2Fquestionnaire "AJACS9/questionnaire (3358d)")
